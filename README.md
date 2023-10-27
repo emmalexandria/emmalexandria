@@ -5,11 +5,11 @@
 - 📌 I'm based in Cape Town.
 - 🖼️ My personal website & portfolio is at [emmalexandria.dev](https://www.emmalexandria.dev).
 - ✉️ You can send me an email at [emma.jellemabutler@gmail.com].(mailto:emma.jellemabutler@gmail.com)
--👩‍💼My LinkedIn is [here](https://www.linkedin.com/in/emma-jb).
+- 👩‍💼My LinkedIn is [here](https://www.linkedin.com/in/emma-jb).
 
 ### Current work
 - Working on [ZenWriter](https://github.com/emmalexandria/zenwriter) (repo is currently private)
-- Learning React, and NextJS.
+- Learning React and NextJS.
 
 
 
