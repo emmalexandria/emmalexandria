@@ -1,5 +1,7 @@
 # Hey there! I'm Emma 🌸
-**I'm a web developer and more general programmer**. I taught myself to code over the course of high-school, and now I'm just doing random projects.
+**I'm a web developer and more general programmer**. 
+I taught myself to code over the course of high-school, and now I'm working on personal projects and expanding my skillset.
+
 ## Quick about me
 
 - 📌 I'm based in Cape Town.
