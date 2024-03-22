@@ -9,10 +9,4 @@ I taught myself to code over the course of high-school, and now I'm working on p
 - ✉️ You can send me an email at [emma.jellemabutler@gmail.com](mailto:emma.jellemabutler@gmail.com)
 - 👩‍💼My LinkedIn is [here](https://www.linkedin.com/in/emma-jb).
 
-### Current work
-- Working on [ZenWriter](https://github.com/emmalexandria/zenwriter) (repo is currently private)
-- Learning React and NextJS.
-
-
-
 
